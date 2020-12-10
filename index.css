@@ -20,7 +20,7 @@ body{
 
 /* Img Header */
 .img-header{
-    background-image: url(/Imagenes/protesta.jpg);
+    background-image: url(Imagenes/protesta.jpg);
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -170,7 +170,7 @@ body{
 }
 
 .leonardo-da-vinci .figure-img{
-    background: url(/Imagenes/leonardo-da-vinci.png);
+    background: url(Imagenes/leonardo-da-vinci.png);
     background-attachment: fixed;
     background-position: center;
     background-color: cover;
