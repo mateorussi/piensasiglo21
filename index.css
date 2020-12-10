@@ -24,7 +24,7 @@ body{
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: #FF0000;
     background-blend-mode: soft-light;
 
     position: relative;
